@@ -8,7 +8,7 @@
                 </div>
             </a>
         </li>
-        <li class="item-nav">
+        {{-- <li class="item-nav">
             <a href="">
                 <img src="{{asset("assets/icon/projects.svg")}}" alt="">
                 <div class="sidebar-text">
@@ -23,10 +23,10 @@
                     Armazenamento
                 </div>
             </a>
-        </li>
+        </li> --}}
     </ul>
     <ul id="botside">
-        <li class="item-nav">
+        {{-- <li class="item-nav">
             <a href="">
                 <img src="{{asset("assets/icon/logs.svg")}}" alt="">
                 <div class="sidebar-text">
@@ -41,7 +41,7 @@
                     Configurações
                 </div>
             </a>
-        </li>
+        </li> --}}
         <li class="item-nav">
             <a href="">
                 <img src="{{asset("assets/icon/logout.svg")}}" alt="">
